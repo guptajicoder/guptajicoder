@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guptajicoder
+- 👋 Hi, I’m @guptajicoder(Tushar Gupta)
 - 👀 I’m interested in Coading,Gaming.
 - 🌱 I’m currently learning Software Enginerring,Devops
 - 💞️ I’m looking to collaborate on Bhagwat geeta Chatbot
